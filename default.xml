@@ -323,7 +323,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="android" name="epinter/android" revision="jb-olympus"/>
+  <project path="android" name="muzili/android" revision="jb-olympus"/>
   <project path="frameworks/av" name="epinter/android_frameworks_av" revision="epinter-olympus"/>
   <project path="frameworks/base" name="epinter/android_frameworks_base"  revision="epinter-olympus"/>
   <project path="frameworks/native" name="epinter/android_frameworks_native"  revision="epinter-olympus"/>
